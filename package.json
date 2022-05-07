@@ -1,25 +1,4 @@
 {
-  "name": "learningnodejs",
-  "version": "0.0.1",
-  "description": "learning node js",
-  "main": "httpserver.js",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cdsell91/nodejs.git"
-  },
-  "keywords": [
-    "learning nodejs",
-    "nodejs"
-  ],
-  "author": "Cesar Sellanes",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cdsell91/nodejs/issues"
-  },
-  "homepage": "https://github.com/cdsell91/nodejs#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
